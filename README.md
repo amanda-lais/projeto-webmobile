@@ -16,9 +16,9 @@ Alvo 3.3:
 
 ## Solução a ser desenvolvida
 
-Será desenvolvido um site com informações sobre a dengue, dados a respeito (inclusive futuramente utilizando [esta](https://info.dengue.mat.br/services/api) API), informações sobre prevenção, algumas informações sobre o mosquito-da-dengue e também algumas informações sobre as outras doenças que podem ser causadas pelo _Aedes aegypti_.
+Será desenvolvido um site com informações sobre a dengue e outras doenças transmitidas pelo mosquito-da-dengue, dados a respeito (inclusive futuramente utilizando [esta](https://info.dengue.mat.br/services/api) API), informações sobre prevenção e algumas informações sobre o _Aedes aegypti_.
 
-Por meio dele, objetiva-se informar e alertar as pessoas a respeito da dengue, levando a um aumento da prevenção e contribuindo com a diminuição dos casos de dengue.
+Por meio dele, objetiva-se informar e alertar as pessoas a respeito das doenças que esse mosquito é capaz de transmitir, levando a um aumento da prevenção e contribuindo com a diminuição dos casos de dengue, zika e chikungunya.
 
 ### Protótipo de alta fidelidade
 
