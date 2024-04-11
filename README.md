@@ -1,31 +1,36 @@
-# Projeto Web/Mobile
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Grupo
+## Getting Started
 
-Amanda Laís Xavier Fontes (RA: 10358467)
+First, run the development server:
 
-## Comunidade local
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-Moradores de áreas em risco para a dengue
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Alvo escolhido
+You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-Alvo 3.3:
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-> Até 2030, acabar com as epidemias de AIDS, tuberculose, malária e doenças tropicais negligenciadas, e combater a hepatite, doenças transmitidas pela água, e outras doenças transmissíveis
+## Learn More
 
-## Solução a ser desenvolvida
+To learn more about Next.js, take a look at the following resources:
 
-Será desenvolvido um site com informações sobre a dengue e outras doenças transmitidas pelo mosquito-da-dengue, dados a respeito (inclusive futuramente utilizando [esta](https://info.dengue.mat.br/services/api) API), informações sobre prevenção e algumas informações sobre o _Aedes aegypti_.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-Por meio dele, objetiva-se informar e alertar as pessoas a respeito das doenças que esse mosquito é capaz de transmitir, levando a um aumento da prevenção e contribuindo com a diminuição dos casos de dengue, zika e chikungunya.
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-### Protótipo de alta fidelidade
+## Deploy on Vercel
 
-#### Mobile
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-[https://www.figma.com/proto/y3fWCj9uxbxYfTPo8DUE5C/DENGUE-MOBILE?page-id=5%3A142&type=design&node-id=5-437&viewport=195%2C91%2C0.27&t=UmL82QOCSouvOqe9-1&scaling=scale-down&starting-point-node-id=5%3A437&mode=design](https://www.figma.com/proto/y3fWCj9uxbxYfTPo8DUE5C/DENGUE-MOBILE?page-id=5%3A142&type=design&node-id=5-437&viewport=195%2C91%2C0.27&t=UmL82QOCSouvOqe9-1&scaling=scale-down&starting-point-node-id=5%3A437&mode=design)
-
-#### Desktop
-
-[https://www.figma.com/proto/kRumnMqKdTCRPkyzWZHLcP/DENGUE-DESKTOP?page-id=5%3A125&type=design&node-id=22-459&viewport=30%2C821%2C0.24&t=bisdf60Df6kNkB6s-1&scaling=contain&starting-point-node-id=22%3A459&mode=design](https://www.figma.com/proto/kRumnMqKdTCRPkyzWZHLcP/DENGUE-DESKTOP?page-id=5%3A125&type=design&node-id=22-459&viewport=30%2C821%2C0.24&t=bisdf60Df6kNkB6s-1&scaling=contain&starting-point-node-id=22%3A459&mode=design)
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
