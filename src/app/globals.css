@@ -1,4 +1,31 @@
-:root {
+html {
+  background: rgb(33,0,0);
+  background: linear-gradient(0deg, rgba(33,0,0,1) 36%, rgba(168,16,16,1) 95%);
+  height: 100%;
+  width: 100%;
+}
+
+.paginaprincipal {
+  display: flex;
+  background-color: white;
+  box-shadow: 2vw 4vh 3rem -3rem black;
+  width: 95vw;
+  height: 75vh;
+  margin-top: 10vh;
+  margin-bottom: 15vh;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imagem {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 50vw;
+  margin-right: 5vw;
+}
+
+
+/* :root {
   --max-width: 1100px;
   --border-radius: 12px;
   --font-mono: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono",
@@ -104,4 +131,4 @@ a {
   html {
     color-scheme: dark;
   }
-}
+} */
